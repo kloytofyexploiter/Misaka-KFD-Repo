@@ -2,7 +2,7 @@
     "RepositoryName": "MR X's Misaka KFD Repo",
     "RepositoryDescription": "Tweaks made by me MR X for 16.2-16.6 b1 only",
     "RepositoryAuthor": "MR X",
-  "RepositoryIcon": "https://github.com/kloytofyexploiter/Misaka-KFD-Repo/raw/main/845d4970f8a90914e584ce88466616f1.jpeg"
+  "RepositoryIcon": "https://github.com/kloytofyexploiter/Misaka-KFD-Repo/raw/main/845d4970f8a90914e584ce88466616f1.jpeg",
   "RepositoryWebsite": "https://github.com/kloytofyexploiter/Misaka-KFD-Repo",
   "Default": {
     "HeaderImage": "https://github.com/kloytofyexploiter/Misaka-KFD-Repo/raw/main/MR%20X%20Banner.png",
@@ -16,4 +16,4 @@
             ]
         },
         "ViewCount": true
-    },
+    }}
